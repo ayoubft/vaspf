@@ -1,6 +1,8 @@
 """
     This script convert vasp file to a file that contain
     desired informations
+
+	Author: ayoubft
 """
 
 import sys
